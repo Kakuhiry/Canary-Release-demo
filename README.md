@@ -1,11 +1,9 @@
-# microservices-example
-
 # Technologies
 
-NodeJS & Express: To create a server where we can locally host our web page
-Haproxy: To distribute the load between all our server
-Docker: To create and run 3 containers of our node server, 2 with the same features and 1 with a new feature
-MongoDB: To allow users to send a report if there's a problem with the new feature
+NodeJS & Express: To create a server where we can locally host our web page\
+Haproxy: To distribute the load between all our server\
+Docker: To create and run 3 containers of our node server, 2 with the same features and 1 with a new feature\
+MongoDB: To allow users to send a report if there's a problem with the new feature\
 
 #Implementation
 
